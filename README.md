@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://www.thecn.com/PR660)
+[![MasterHead](https://lh3.googleusercontent.com/d/10nhtA0KLUru2wRl_1NOhoUsvH34nyjQX=s1000?authuser=0)](https://www.thecn.com/PR660)
 
 <h1 align="center">Hi 👋, I'm Pasindu Rangana</h1>
 <h3 align="center">Computer Engineering Undergraduate</h3>
